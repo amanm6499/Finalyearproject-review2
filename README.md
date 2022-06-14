@@ -1,2 +1,2 @@
-# Handout-Proj-ReactNative
+# Handout-Project
 React Native Mobile Application Project 
